@@ -3,4 +3,4 @@
 
 - 🌱 Actualmente me estoy desarrollando como Front-end**
 
-- 📫 Cómo contactarme **lerda.gabriel@gmail.com**
+- 📫 Me puedes contactar a este mail ** lerda.gabriel@gmail.com **
