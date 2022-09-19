@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React and Node.js**
 
-- 💬 Ask me about **HTML, CSS and Javascript**
+- 💬 Ask me about **HTML, CSS, Javascript and PHP**
 
 - 📫 How to reach me **lerda.gabriel@gmail.com**
 
